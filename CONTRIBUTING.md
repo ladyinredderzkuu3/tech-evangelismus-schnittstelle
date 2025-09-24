@@ -10,5 +10,8 @@ Vielen Dank für Ihr Interesse, zum Tech-Evangelismus Projekt beizutragen!
 ## Verhaltenskodex
 Wir erwarten von allen Mitwirkenden, dass sie respektvoll, freundlich und unterstützend miteinander umgehen. Verhaltensweisen, die nicht den Werten der Gemeinschaft entsprechen, werden nicht toleriert.
 
+## Code-Stil
+Bitte beachten Sie unsere [Code-Stilrichtlinien](link-to-code-style-guidelines) für ein einheitliches Projektformat.
+
 ## Fragen?
 Wenn Sie Fragen haben, zögern Sie nicht, uns zu kontaktieren.
