@@ -1,0 +1,12 @@
+{
+  "name": "tech-evangelismus-schnittstelle",
+  "version": "1.0.0",
+  "description": "Eine Schnittstelle für das Tech-Evangelismus Projekt",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
